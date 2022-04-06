@@ -14,7 +14,7 @@
 $menuEntries = Array(
 #	Array(
 #		'text' => 'Photobooth Options',
-#		'type' => 'content',
+#		'type' => 'output',
 #		'page' => 'options.php',
 #		'wrap' => 1
 #	),

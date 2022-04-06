@@ -10,3 +10,4 @@ sudo apt-get install -y python-gdata
 sudo pip install --upgrade google-api-python-client
 sudo pip install --upgrade oauth2client
 sudo apt-get install -y imagemagick
+sudo python setup.py
