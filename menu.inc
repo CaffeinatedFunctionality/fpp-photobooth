@@ -13,17 +13,11 @@
 
 $menuEntries = Array(
 #	Array(
-#		'text' => 'Photobooth Options',
+#		'text' => 'Photobooth',
 #		'type' => 'output',
 #		'page' => 'options.php',
 #		'wrap' => 1
-#	),
-	Array(
-		'text' => 'Photobooth Help',
-		'type' => 'help',
-		'page' => 'help.php',
-		'wrap' => 1
-	),
+#	)
 );
 
 ##############################################################################
