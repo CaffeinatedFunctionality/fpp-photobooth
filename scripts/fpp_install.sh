@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# fpp-plugin-Template install script
+# fpp-photobooth install script
 
 apt-get update
 apt-get install python-imaging

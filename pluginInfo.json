@@ -2,7 +2,7 @@
 	"repoName": "fpp-photobooth",
 	"name": "Photobooth Plugin for FPP",
 	"author": "Taylor Mitchell (CaffeinatedFunctionality)",
-	"description": "This template plugin is designed to allow for an external button to trigger a sequence to take a picture on a raspberry pi running fpp after a countdown on a screen.",
+	"description": "This plugin is designed to allow for an external button to trigger a sequence to take a picture on a raspberry pi running fpp after a countdown on a screen.",
 	"homeURL": "https://github.com/CaffeinatedFunctionality/fpp-photobooth",
 	"srcURL": "https://github.com/CaffeinatedFunctionality/fpp-photobooth.git",
 	"bugURL": "https://github.com/CaffeinatedFunctionality/fpp-photobooth/issues",
