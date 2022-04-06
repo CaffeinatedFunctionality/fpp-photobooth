@@ -1,32 +1,25 @@
 {
-	"repoName": "fpp-plugin-Template",
-	"name": "Template Plugin for FPP Plugin developers",
-	"author": "John Doe (jdoe)",
-	"description": "This template plugin is designed to make it easier for plugin authors to create new FPP Plugins.  You can manually clone the git repository or install the Template Plugin and then go to the plugin's config page and use the form to copy the template into a new plugin directory.",
-	"homeURL": "https://github.com/FalconChristmas/fpp-plugin-Template",
-	"srcURL": "https://github.com/FalconChristmas/fpp-plugin-Template.git",
-	"bugURL": "https://github.com/FalconChristmas/fpp-plugin-Template/issues",
+	"repoName": "fpp-photobooth",
+	"name": "Photobooth Plugin for FPP",
+	"author": "Taylor Mitchell (CaffeinatedFunctionality)",
+	"description": "This template plugin is designed to allow for an external button to trigger a sequence to take a picture on a raspberry pi running fpp after a countdown on a screen.",
+	"homeURL": "https://github.com/CaffeinatedFunctionality/fpp-photobooth",
+	"srcURL": "https://github.com/CaffeinatedFunctionality/fpp-photobooth.git",
+	"bugURL": "https://github.com/CaffeinatedFunctionality/fpp-photobooth/issues",
 	"allowUpdates": 1,
 	"versions": [
 		{
-			"minFPPVersion": "2.0",
-			"maxFPPVersion": "0",
-			"branch": "master",
-			"sha": "",
-			"dependencies": {
-			    "plugins": [
-					"fpp-plugin-CoolPlugin1",
-					"fpp-plugin-CoolPlugin2"
-				],
-			    "packages": [
-					"system-package-name1",
-					"system-package-name2"
-				],
-				"scripts": [
-					"Control/script-repository-script1",
-					"PixelOverlay/script-repository-script2"
-				]
-			}
-		}
+            "minFPPVersion": "4.0",
+            "maxFPPVersion": "5.99",
+            "branch": "master",
+            "sha": "597222dd1656f2e74778ea2a31ecd04a2aa4e78e"
+        },
+        {
+            "minFPPVersion": "6.0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "allowUpdates": 1,
+            "sha": ""
+        }
 	]
 }

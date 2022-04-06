@@ -1,3 +1,2 @@
-# fpp-plugin-Template
-Template plugin for FPP Plugin developers
-
+# fpp-photobooth
+Photobooth plugin for FPP
