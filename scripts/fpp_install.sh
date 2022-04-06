@@ -2,11 +2,11 @@
 
 # fpp-photobooth install script
 
-apt-get update
-apt-get install python-imaging
-apt-get install python-imaging-tk
-apt-get install python-gdata
-pip install --upgrade google-api-python-client
-pip install --upgrade oauth2client
-apt-get install imagemagick
-python setup.py
+sudo apt-get update
+sudo apt-get install python-imaging
+sudo apt-get install python-imaging-tk
+sudo apt-get install python-gdata
+sudo pip install --upgrade google-api-python-client
+sudo pip install --upgrade oauth2client
+sudo apt-get install imagemagick
+sudo python setup.py
