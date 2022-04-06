@@ -12,12 +12,12 @@
 # help menu in this example template.
 
 $menuEntries = Array(
-#	Array(
-#		'text' => 'Photobooth',
-#		'type' => 'output',
-#		'page' => 'options.php',
-#		'wrap' => 1
-#	)
+	Array(
+		'text' => 'Photobooth',
+		'type' => 'output',
+		'page' => 'Photobooth.php',
+		'wrap' => 1
+	)
 );
 
 ##############################################################################
