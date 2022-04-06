@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # fpp-photobooth install script
+echo "Running fpp-photobooth Install Script"
 
 sudo apt-get update
 sudo apt-get install python-imaging
