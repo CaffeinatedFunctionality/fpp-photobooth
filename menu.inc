@@ -12,12 +12,6 @@
 # help menu in this example template.
 
 $menuEntries = Array(
-	Array(
-#		'text' => 'Content Setup',
-#		'type' => 'content',
-#		'page' => 'content.php',
-#		'wrap' => 1
-#	),
 #	Array(
 #		'text' => 'Photobooth Options',
 #		'type' => 'content',
